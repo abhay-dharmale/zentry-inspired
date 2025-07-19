@@ -85,5 +85,3 @@ Now open `http://localhost:5173` in your browser.
 ## <a name="more">🚀 More</a>
 
 If you found this project helpful or visually inspiring, feel free to ⭐ the repository and follow me for more creative frontend builds!
-
-Looking to push further? Check out advanced Next.js projects, WebGL integrations, and creative motion UI builds.
